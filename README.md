@@ -35,7 +35,7 @@
 
   </a>
   <a href="https://github.com/Qadeer-bhai/QADEER-MD">
-    <img src="https://img.shields.io/static/v1?label=Author&message=MR.IMALKA%20HANSAMAL&color=red&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=QADEER%20KHAN&color=red&style=plastic">
 
   </a>
   </p>
