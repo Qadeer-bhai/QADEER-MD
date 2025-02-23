@@ -59,7 +59,7 @@
 <b>DEPLOY</b>
 </br>
 </br>
- [![QADEER](https://img.shields.io/badge/QADEER_MD_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/hansamal312/HANSAMAL-MD)
+ [![QADEER](https://img.shields.io/badge/QADEER_MD_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/Qadeer-bhai/QADEER-MD)
   
 [![QADEER](https://img.shields.io/badge/QADEER_MD_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app)
    
