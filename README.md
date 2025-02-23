@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/Qadeer-bhai/QADEER-MD">
-    <img src=https://i.postimg.cc/yx0bdqMg/IMG-20241217-WA0053.jpg"  width="700px">
+    <img src="https://qu.ax/azDWQ.jpg"  width="700px">
 </a>
 <hr>
  <p align="center">
@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/github/languages/top/Qadeer-bhai/QADEER-MD?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/hansamal312/HANSAMAL-MD">
+  <a href="https://github.com/Qadeer-bhai/QADEER-MD">
     <img src="https://img.shields.io/static/v1?label=Author&message=MR.IMALKA%20HANSAMAL&color=red&style=plastic">
 
   </a>
@@ -59,9 +59,9 @@
 <b>DEPLOY</b>
 </br>
 </br>
- [![QADEER](https://img.shields.io/badge/HANSAMAL_MD_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/hansamal312/HANSAMAL-MD)
+ [![QADEER](https://img.shields.io/badge/QADEER_MD_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/hansamal312/HANSAMAL-MD)
   
-[![QADEER](https://img.shields.io/badge/HANSAMAL_MD_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app)
+[![QADEER](https://img.shields.io/badge/QADEER_MD_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app)
    
 [![QADEER](https://img.shields.io/badge/QADEER_MD_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
    
@@ -72,7 +72,7 @@
 
 QADEER MD DEVELOPER
 
-| <a href="https://github.com/Qadeer-bhai"><img src="https://i.postimg.cc/t4pnVYd8/IMG-20241217-WA0017-1.jpg" width=90 height=90></a>
+| <a href="https://github.com/Qadeer-bhai"><img src="https://qu.ax/azDWQ.jpg" width=90 height=90></a>
 |---|
 | **[QADEER KHAN](https://github.com/Qadeer-bhai)**</br>Create Whatsapp Bot</br> |
 <hr>
