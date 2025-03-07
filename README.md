@@ -3,13 +3,8 @@
 <a><img src='https://qu.ax/azDWQ.jpg'/></a>
 
 ---
-### 1. Fork This Repository
 
-**Start by forking this repository to your own GitHub account. Click the button below to fork:**
-
-  <a href="https://github.com/Qadeer-bhai/QADEER-MD/fork"><img title="QADEER-MD" src="QADEER MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
-  
-### 2. Get Session ID 
+### 1. Get Session ID 
 
 **You will need a session ID to run the QADEER-MD. Click the button below to obtain your session ID.if any error in loading site try vpn:**
 
