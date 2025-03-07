@@ -1,30 +1,17 @@
 ---
 
-<a><img src='https://i.imghippo.com/files/Heb9902bbM.jpg'/></a>
-
----
-    
-> **`Updated To` The Version 2.0**
----
-
-```
-PANHWAR-MD BY ANSAR-PANHWAR 👑
-```
----
-
-
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=✰PANHWAR-MD-WHATSAPP-BOT✰" alt="Typing SVG" /></a>
+<a><img src='https://qu.ax/azDWQ.jpg'/></a>
 
 ---
 ### 1. Fork This Repository
 
 **Start by forking this repository to your own GitHub account. Click the button below to fork:**
 
-  <a href="https://github.com/ANSAR-PANHWAR/PANHWAR-MD/fork"><img title="PANHWAR-MD" src="https://img.shields.io/badge/FORK-PANHWAR MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Qadeer-bhai/QADEER-MD/fork"><img title="QADEER-MD" src="https://img.shields.io/badge/FORK-PANHWAR MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
-**You will need a session ID to run the PANHWAR-MD. Click the button below to obtain your session ID.if any error in loading site try vpn:**
+**You will need a session ID to run the QADEER-MD. Click the button below to obtain your session ID.if any error in loading site try vpn:**
 
 > **Get Pair Code (Session ID)**
 
@@ -43,7 +30,7 @@ PANHWAR-MD BY ANSAR-PANHWAR 👑
 ---
 
 <p align="center">
-<a href='https://dashboard.heroku.com/new-app?template=https://github.com/ANSAR-PANHWAR/PANHWAR-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/< width=250 height=45/p></a>
+<a href='https://dashboard.heroku.com/new-app?template=https://github.com/Qadeer-bhai/QADEER-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/< width=250 height=45/p></a>
 
 ---
 
