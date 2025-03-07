@@ -7,7 +7,7 @@
 
 **Start by forking this repository to your own GitHub account. Click the button below to fork:**
 
-  <a href="https://github.com/Qadeer-bhai/QADEER-MD/fork"><img title="QADEER-MD" src="https://img.shields.io/badge/FORK-PANHWAR MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Qadeer-bhai/QADEER-MD/fork"><img title="QADEER-MD" src="QADEER MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
