@@ -75,8 +75,8 @@ cmd({
           'title': "⏤͟͟͞͞★͙≛͙⃝͙𝐐𝐀𝐃𝐄𝐄𝐑-𝐌𝐃♥᭄ ࿐",
           'body': '' + _0x307f4f,
           'mediaType': 0x1,
-          'sourceUrl': "https://whatsapp.com/channel/0029Vb5q797K0IBn4SW2hO2R",
-          'thumbnailUrl': "https://i.imghippo.com/files/Heb9902bbM.jpg",
+          'sourceUrl': "https://whatsapp.com/channel/0029Vaw6yRaBPzjZPtVtA80A",
+          'thumbnailUrl': "https://qu.ax/azDWQ.jpg",
           'renderLargerThumbnail': true,
           'showAdAttribution': true
         }
